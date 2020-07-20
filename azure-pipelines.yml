@@ -6,6 +6,11 @@ steps:
   - task: Npm@1
     inputs:
       command: 'custom'
+      customcommand: 'install --save-dev jest'
+    displayName: 'Install jest'
+  - task: Npm@1
+    inputs:
+      command: 'custom'
       customcommand: 'install --production'
   - script: 'npm test'
     displayName: 'Run unit tests'
