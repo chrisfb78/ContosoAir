@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/chrisfb78/githubLAB/_apis/build/status/chrisfb78.ContosoAir?branchName=master)](https://dev.azure.com/chrisfb78/githubLAB/_build/latest?definitionId=3&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
